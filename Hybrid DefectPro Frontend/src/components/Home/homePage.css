@@ -1,0 +1,28 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    min-width: 210vb;
+    background-image: url('/src/images/bg3.jpg');
+    background-size: cover;
+    background-position: center;
+  
+}
+  
+main {
+    color: white;
+    /* text-shadow: 2px 2px 8px black; */
+}
+
+.section{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.underline{
+    height: 04px;
+    width: 4rem;
+    background-color: #f76c2f;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

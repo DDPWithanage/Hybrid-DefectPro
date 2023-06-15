@@ -1,0 +1,26 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    min-width: 210vb;
+    background-image: url('/src/images/bg3.jpg');
+    background-size: cover;
+    background-position: center;
+  
+}
+
+.invalid-feedback {
+    display: none;
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+  
+  .invalid {
+    border-color: red;
+  }
+  
+  .invalid ~ .invalid-feedback {
+    display: block;
+  }
+    
