@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Software/Angular-5-CRUD-With-Firebase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/Angular-Full-Stack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/Angular-Login-App-by-ganesh-kavhar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/Angular-Projects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/Market-Web-Application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/QuizMe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/Restaurent_Application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/To-Do-List-App-in-Angular-5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/angular-login-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/angular-quiz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/angular-react-native-seed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/angular-seed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/angular-webpack-typescript-karma-coverage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/angular2-base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/angular2-highcharts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/angular2-switcher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/angular_example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/angularjs-landing-page-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/aws-mobile-angular-cognito-sample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/generator-ngx-rocket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/ng-launchpad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/sb-clean-blog-angular" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/spring-mvc-angular" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/starter-kit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/translation-generator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software/typescript-clean-architecture" vcs="Git" />
+  </component>
+</project>
